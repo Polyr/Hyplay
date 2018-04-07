@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "hyplay",
+    "name": "Hyplay",
+    "description": "Play your favorite Hypixel games from a convenient GUI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Synchronous"]
+  }
+]
