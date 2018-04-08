@@ -1,3 +1,4 @@
+if: tag IS present
 language: java
 before_install: chmod +x gradlew
 before_cache:
