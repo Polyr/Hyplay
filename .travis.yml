@@ -1,7 +1,4 @@
-language: generic
-before_deploy:
-  - chmod +x gradlew
-  - ./gradlew build
+language: java
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
