@@ -1,3 +1,4 @@
+language: generic
 before-deploy: ./gradlew build
 deploy:
   provider: releases
