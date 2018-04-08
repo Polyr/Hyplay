@@ -1,5 +1,5 @@
 language: generic
-before-deploy: ./gradlew build
+before_deploy: ./gradlew build
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
